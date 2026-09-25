@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 120" width="100%" height="100%">
+  <!-- Barrel & Gas Tube -->
+  <rect x="30" y="38" width="145" height="6" fill="#18222c"/>
+  <rect x="170" y="36" width="10" height="10" fill="#a67c2e"/>
+  
+  <!-- Receiver & Body -->
+  <rect x="55" y="33" width="70" height="16" fill="#18222c"/>
+  <rect x="30" y="33" width="25" height="10" fill="#1e2a35"/>
+  <rect x="75" y="30" width="20" height="4" fill="#18222c"/>
+  
+  <!-- Magazine -->
+  <polygon points="90,49 110,49 100,90 85,90" fill="#18222c"/>
+  
+  <!-- Grip -->
+  <polygon points="65,49 80,49 72,80 60,80" fill="#1e2a35"/>
+</svg>
